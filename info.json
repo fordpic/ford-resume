@@ -1,0 +1,21 @@
+{
+    "name": "Ford Pickert",
+    "website": "https://fordrulez.gov/",
+    "linkedin": "https://www.linkedin.com/in/fordpickert/",
+    "github": "fordp",
+    "email": "fordpickert@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Gaming",
+        "Modding",
+        "Gettin it"
+    ]
+}
